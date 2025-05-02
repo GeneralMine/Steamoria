@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1745972540280
+  last_edited_time = 1746182063983
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:e991a32d-30f4-4f31-b8af-d4bfead04ca7-1745971925971] = [groups:][instances:]
+  [loading_requirement_container_meta:b30a38fa-987a-4e8e-8b59-b94a19a3a59b-1746182055610] = [groups:][instances:]
 }
 
 customization {
@@ -38,8 +38,8 @@ element {
   audio_instance_weight_1 = 1.0
   play_mode = shuffle
   looping = true
-  volume = 0.6
-  sound_source = master
+  volume = 0.4
+  sound_source = music
   element_type = audio_v2
   instance_identifier = 880aaf8c-ee9a-4260-802b-86f5eabb0fae-1745970441585
   appearance_delay = no_delay

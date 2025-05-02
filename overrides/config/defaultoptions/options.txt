@@ -21,8 +21,8 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:true
 hideLightningFlashes:false
-mouseSensitivity:0.5
-fov:0.0
+mouseSensitivity:0.33746148767605616
+fov:0.5
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -36,7 +36,7 @@ simulationDistance:14
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
-maxFps:120
+maxFps:240
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
@@ -72,11 +72,11 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
-hideBundleTutorial:false
+joinedFirstServer:true
+hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -84,7 +84,7 @@ onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
 telemetryOptInExtra:false
 onboardAccessibility:false
-soundCategory_master:1.0
+soundCategory_master:0.5055230753311258
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

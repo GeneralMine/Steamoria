@@ -1,6 +1,6 @@
 {
   "game_stages": {
-    "is_per_player_difficulty_enabled": false,
+    "is_per_player_difficulty_enabled": true,
     "list": [
       {
         "id": "normal",

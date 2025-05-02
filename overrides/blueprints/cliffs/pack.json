@@ -1,0 +1,14 @@
+{
+  "icon": "cliffs.png",
+  "name": "Cliffs",
+  "authors": [
+    "matlom", "McSassa"
+  ],
+  "desc": "Welcome to the highest mountains! Prepare yourself to climb and terraform the mountains to succeed.",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": 5,
+  "pack-format": 1
+}

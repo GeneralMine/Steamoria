@@ -1,0 +1,14 @@
+{
+  "icon": "oldenglish.png",
+  "name": "Old English",
+  "authors": [
+    "AnyankaT"
+  ],
+  "desc": "Old English: A medieval feel with multipurpose buildings. Reworked with Cookery. All huts available, plus walls and other deco.",
+  "mods": [
+  "structurize"
+  
+  ],
+  "version": 8,
+  "pack-format": 1
+}

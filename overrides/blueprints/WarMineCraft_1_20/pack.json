@@ -1,0 +1,13 @@
+{
+  "icon": "TownhallPic.png",
+  "name": "WarMineCraft",
+  "authors": [
+    "Ramblingman"
+  ],
+  "desc": "Welcome to a colony pack heavily inspired by the Human buildings from the Warcraft series. Build up your base and lay claim to the lands around you.",
+  "mods": [
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}

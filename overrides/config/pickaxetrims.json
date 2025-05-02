@@ -1,0 +1,21 @@
+{
+  "cryingObsidianMultiBreakRadius": 1,
+  "lapisGlowRadius": 10,
+  "lapisGlowSeconds": 10.0,
+  "redstoneVeinMineDepth": 16,
+  "copperDurabilityMultiplier": 2.0,
+  "emeraldDoubleDropsChance": 0.5,
+  "quartzExperienceMultiplierMin": 1.5,
+  "quartzExperienceMultiplierMax": 3.0,
+  "smithingTemplateLootProbability": 0.1,
+  "smithingTemplateLootTables": [
+    "minecraft:chests/desert_pyramid",
+    "minecraft:chests/buried_treasure",
+    "minecraft:chests/shipwreck_treasure",
+    "minecraft:chests/stronghold_corridor",
+    "minecraft:chests/stronghold_crossing",
+    "minecraft:chests/stronghold_library",
+    "minecraft:chests/woodland_mansion",
+    "minecraft:chests/village/village_toolsmith"
+  ]
+}

@@ -1,0 +1,98 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
+net.minecraftforge.client.gui.ModListScreen {
+}
+
+net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+net.minecraft.client.gui.screens.SoundOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.OnlineOptionsScreen {
+}
+
+loaderCommon.forge.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen {
+}
+
+net.minecraft.client.gui.screens.LanguageSelectScreen {
+}
+
+net.minecraft.client.gui.screens.controls.ControlsScreen {
+}
+
+net.minecraft.client.gui.screens.MouseSettingsScreen {
+}
+
+com.blamejared.controlling.client.NewKeyBindsScreen {
+}
+
+net.minecraft.client.gui.screens.ChatOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.AccessibilityOptionsScreen {
+}
+
+net.minecraft.client.gui.screens.CreditsAndAttributionScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmLinkScreen {
+}
+
+net.minecraft.client.gui.screens.WinScreen {
+}
+
+net.minecraft.client.gui.screens.packs.PackSelectionScreen {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+
+net.minecraft.client.gui.screens.EditServerScreen {
+}
+
+net.minecraft.client.gui.screens.DirectJoinServerScreen {
+}
+
+net.minecraft.client.gui.screens.ConnectScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.CreateWorldScreen {
+}
+
+net.minecraft.client.gui.screens.CreateBuffetWorldScreen {
+}
+
+net.minecraft.client.gui.screens.CreateFlatWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditGameRulesScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.ExperimentsScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.ConfirmScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.EditWorldScreen {
+}
+
+net.minecraft.client.gui.screens.GenericDirtMessageScreen {
+}
+

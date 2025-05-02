@@ -1,0 +1,9 @@
+{
+    "version":5,
+    "pack-format":1,
+    "desc":"All carts, tents, stalls, and piles. Most Most huts are small and resource lite great for a quick start, easy playthrough, mixing with other styles, and placing in confined areas",
+    "authors":["Stroam"],
+    "mods":["structurize","minecolonies"],
+    "name":"Nomad",
+    "icon":"nomad.png"
+}

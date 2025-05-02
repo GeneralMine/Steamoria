@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "GeneralMine",
+      "uniqueId": "a7abea73-2a8d-40cc-aa7a-6a19783ef6c6"
+    },
+    "time": 1744832957203,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/H7KEspzet7"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GeneralMine",
+      "uniqueId": "a7abea73-2a8d-40cc-aa7a-6a19783ef6c6"
+    },
+    "time": 1744832868057,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NdeLDOavwu"
+    }
+  }
+]

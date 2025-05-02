@@ -1,0 +1,35 @@
+
+["General Settings"]
+	#Defines the maximum speed of the kart. (Default value: 0.25)
+	"Mouvement Speed" = 0.25
+	#Defines the rotational force of the kart. (Default value: 3.0)
+	"Rotation Streng" = 3.0
+	#Define the number of blocks that will be climbed by the kart. (Default value: 1.0)
+	"Max Up Step" = 1.0
+
+["Movement Settings"]
+	#changes the way the kart is steered for old movements before 2.0
+	#be careful if this parameter is set to true, the left and right animations of the kart are deactivated because they are useless
+	#(true = Old movement / false = New movement)
+	"Old Movement" = false
+
+["Fuel Settings"]
+	#Define the fuel consumption for a traveling 1 block. (Default value: 5.0)
+	#    [Preview setting stats]
+	#     WARN: NOT EXACT AMOUNT
+	#
+	#  Consumption          Traveled
+	#1.0 fuel/block   ->  22000 block
+	#2.0 fuel/block   ->  11000 block
+	#4.0 fuel/block   ->   5500 block
+	#5.0 fuel/block   ->   4400 block (default)
+	#10.0 fuel/block  ->   2200 block
+	#15.0 fuel/block  ->   1650 block
+	#20.0 fuel/block  ->   1100 block
+	#
+	"Fuel Consumption" = 5.0
+	#Changes the fuel overlay display to a minimal version
+	#WARN: Only the fuel shortage popup is affected by this setting, the coal bar and the value below it do not change.
+	#(true = Minimal Overlay / false = Default Overlay)
+	"Minimal Overlay" = false
+

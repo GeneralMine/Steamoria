@@ -1,0 +1,15 @@
+
+[AutoMessage]
+	# The messages to be sent
+	MESSAGES = ["§bWelcome to Steamoria!§b", "§bYou woke up in a fantasy world full of mystical lands, creatures and structures.§b", "§bExplore the ruins of a forgotten war and settle your colony to bring these lands to new glory!§b"]
+	# Should we attach a link to this message?
+	LINKS = ["https://marvin.raiser.dev/Steamoria", "https://marvin.raiser.dev/Steamoria", "https://marvin.raiser.dev/Steamoria"]
+	# How frequently / after how long should the message be sent?
+	INTERVALS = [5, 7, 9]
+	# How many times should the message be sent per session? 0 = infinite
+	SOFT_LIMITS = [1, 1, 1]
+	# How many times should the message be sent EVER? 0 = infinite
+	HARD_LIMITS = [1, 1, 1]
+	# Should AutoMessage be Enabled? default: false
+	AM_ENABLED = true
+

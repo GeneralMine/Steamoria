@@ -1,7 +1,7 @@
 {
   "pingVolume": 100,
-  "pingDuration": 7,
-  "pingDistance": 2048,
+  "pingDuration": 10,
+  "pingDistance": 4096,
   "correctionPeriod": 1.0,
   "itemIconVisible": true,
   "directionIndicatorVisible": true,
@@ -9,7 +9,7 @@
   "pingSize": 300,
   "channel": "",
   "removeRadius": 10,
-  "raycastDistance": 1024,
+  "raycastDistance": 4096,
   "safeZoneLeft": 5,
   "safeZoneRight": 5,
   "safeZoneTop": 5,

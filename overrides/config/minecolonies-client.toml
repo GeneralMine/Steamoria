@@ -7,10 +7,12 @@
 	neighborbuildingrendering = true
 	#How close a building needs to be to another to be considered a neighbor, in blocks. -1 = intersecting, 0 = touching [Default: 4, min: -2, max: 16]
 	#Range: -2 ~ 16
-	neighborbuildingrange = 4
+	neighborbuildingrange = 8
 	#How close (in blocks) you need to be to see work orders while wearing the Build Goggles. [Default: 50, min: 1, max: 250]
 	#Range: 1 ~ 250
 	buildgogglerange = 50
 	#When true, the colony borders shown when holding the build tool will be in the colony's team color. When false, the colony you're inside will be white and any other colony will be red. [Default: true]
 	colonyteamborders = true
+	#Should special holiday content be displayed? [Default: true]
+	holidayfeatures = true
 

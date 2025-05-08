@@ -27,7 +27,7 @@
   "weaponsAreDestructive": false,
   "dropAircraft": true,
   "dropInventory": true,
-  "dropUpgrades": true,
+  "dropUpgrades": false,
   "regenerateHealthEveryNTicks": 0,
   "requireShiftForRepair": false,
   "bombBayEntity": {

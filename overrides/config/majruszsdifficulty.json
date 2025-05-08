@@ -835,7 +835,11 @@
       "item_drop_chance": 0.2,
       "custom_name_chance": 0.025,
       "custom_names": [
-        "Freshah"
+        "Freshah",
+        "God",
+        "The One",
+        "The Chosen One",
+        "Darth Vader"
       ],
       "locations": [
         {

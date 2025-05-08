@@ -20,6 +20,55 @@ Primary Mods are MineColonies, Create (with many addons), IronSpells, IceAndFire
 
 ## Changelog
 
+<details>
+<summary><h2>📦 1.2.0 - 🗓️ 2025-05-08</h2></summary>
+Updated all MineColonies mods, updated several others and added Create Deco and a Create money trading system.
+
+### 🛠️ Mods
+
+- ❇️ `GuideME`: 20.1.7
+- ❇️ `Create: Deco`: 2.0.3
+- ❇️ `CorpseCurioCompat`: 2.2.2
+- ❇️ `Create: Numismatics`: 1.0.15
+- ❇️ `What Are They Up To`: 1.2.3  (+ CoroUtil Lib)
+- 🔝 `AppliedEnergetics2`: 15.3.4 -> 15.4.2
+- 🔝 `Create: Furnitures`: 1.0.8 -> 1.0.9
+- 🔝 `JadeAddons`: 5.3.1 -> 5.5.0
+- 🔝 `SophisticatedCore`: 1.2.51.966 -> 1.2.52.967
+- 🔝 `Trading Floor`: 2.0.2 -> 2.0.3
+- 🔝 `Via Romana`: 1.3.3 -> 1.4.0
+- 🔝 `CTOV`: 3.4.13 -> 3.4.14
+- 🔝 `Geophilic`: 3.4 -> 3.4.1
+- 🔝 `Irons Spellbooks`: 3.4.0.8 -> 3.4.0.9
+- 🔝 `Mcw Lights`: 1.1.0 -> 1.1.2
+- 🔝 `Mcw Roofs`: 2.3.1 -> 2.3.2
+- 🔝 `TwilightDelight`: 2.0.13 -> 2.0.14
+- 🔝 `Structurize`: 1.0.742 -> 1.0.771
+- 🔝 `SmallColonies`: 1.1.2 -> 1.2
+- 🔝 `Moonlight`: 2.13.83 -> 2.14.1
+- 🔝 `MineColonies`: 1.1.603-release -> 1.1.876-snapshot
+- 🔝 `DomumOrnamentum`: 1.0.186-release -> 1.0.285-snapshot
+- 🔝 `Byzantine`: 31.3 -> 32
+- 🔝 `BlockUI`: 1.0.156-release -> 1.0.190-snapshot
+- ❌ `DynamicFPS`: Due to slower garbage collecting it caused out of RAM errors.
+
+### 📑 Config
+- `DefaultConfigs`: Apply new keybinds.
+- `MineColonies`: (Client) Double neighbour building range to render other buildings while placing new buildings
+- `Forgematica`: Add default forgematica config with keybinds
+- `MajruszDifficulty`: Enable per player difficulty
+- `PingWheel`: Pings stay 3 sec longer, pings have double the range.
+- `WorldEdit`: Add default worldedit config
+- `JEI`: List max rows should cover the entire screen now. Enables more tag/fluid features. Updates to match other mods.
+
+### Keybinds
+- `Ö`: Open Forgematica GUI
+- `Ä`: Execute Forgematica Operation
+- `CTRL+M`: Replay Event Marker
+
+</details>
+
+---
 
 <details>
 <summary><h2>📦 1.1.0 - 🗓️ 2025-05-02</h2></summary>

@@ -21,6 +21,53 @@ Primary Mods are MineColonies, Create (with many addons), IronSpells, IceAndFire
 ## Changelog
 
 <details>
+<summary><h2>📦 1.3.0 - 🗓️ 2025-05-26</h2></summary>
+Updated all mods including new Versions and features of MineColonies and adds some compatiblity and quality of life mods.
+
+### 🛠️ Mods
+
+- ❇️ `AE2 Crafting Tree`: 1.0.5
+- ❇️ `Better Compatibility Checker`: 4.0.8
+- ❇️ `Create: Wizardry`: 0.2.3
+- ❇️ `Create Stock Bridges`: 0.1.2
+- ❇️ `Lunar`: 0.2.1
+- ❇️ `PingHUD`: 3.0
+- ❇️ `Polymorhpic Energestics`: 0.1.1
+- ❇️ `Screenshot To Clipboard`: 1.0.9
+- ❇️ `Simple Discord Rich Presence`: 4.0.3
+- ❇️ `Waddles`: 0.9.4
+- 🔝 `AmbientSounds`: 6.1.9 -> 6.1.11
+- 🔝 `Balm`: 7.3.27 -> 7.3.30
+- 🔝 `Byzantine`: 32 -> 32.1
+- 🔝 `Create: Central Kitchen`: 1.4.0 -> 1.4.1
+- 🔝 `Create: Jetpack`: 4.4.0 -> 4.4.1
+- 🔝 `Create: Power Loader`: 2.0.0 -> 2.0.3
+- 🔝 `Create: Structures Arise`: 156.29.28 -> 158.31.30
+- 🔝 `Create: Framed`: 1.6.3 -> 1.6.5
+- 🔝 `Disenchanting Table`: 4.0.2 -> 5.0.0
+- 🔝 `Elydratrims`: 3.5.7 -> 3.5.9
+- 🔝 `FancyMenu`: 3.5.0 -> 3.5.2
+- 🔝 `Framework`: 0.7.12 -> 0.7.15
+- 🔝 `Lithostitched`: 1.4.4 -> 1.4.8
+- 🔝 `Macows Bridges`: 3.0.0 -> 3.1.0
+- 🔝 `MineColonies`: 1.1.876-snapshot -> 1.1.901-snapshot
+- 🔝 `ModernFix`: 5.21.0 -> 5.23.0
+- 🔝 `MonoLib`: 2.0.0 -> 2.1.0
+- 🔝 `SnowRealMagic`: 10.5.2 -> 10.6.2
+- 🔝 `SophisticatedBackpacks`: 3.23.14.1233 -> 3.23.18.1247
+- 🔝 `SophisticatedCore`: 1.2.52.967 -> 1.2.66.997
+- 🔝 `SophisticatedStorage`: 1.3.40.1140 -> 1.3.46.1160
+- 🔝 `StorageDrawers`: 12.9.13 -> 12.9.14
+- 🔝 `Structurize`: 1.0.771 -> 1.0.772
+
+### 📑 Config
+- `SnowRealMagic`: adds new configs for: snowSpawnMaxLightLevel: 9, snowPersistMaxLightLevel: 11
+
+</details>
+
+---
+
+<details>
 <summary><h2>📦 1.2.0 - 🗓️ 2025-05-08</h2></summary>
 Updated all MineColonies mods, updated several others and added Create Deco and a Create money trading system.
 

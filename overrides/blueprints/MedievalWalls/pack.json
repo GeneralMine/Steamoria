@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "pack-format": 1,
+    "desc": "Welcome to MedievalWalls.",
+    "authors": [
+        ""
+    ],
+    "mods": [
+        "structurize"
+    ],
+    "name": "MedievalWalls",
+    "icon": "example.png"
+}

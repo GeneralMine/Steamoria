@@ -79,6 +79,9 @@
     "block": true,
     "note_block": true
   },
+  "create_mob_spawners": {
+    "spawner_progress": true
+  },
   "balm": {
     "jade": true
   },

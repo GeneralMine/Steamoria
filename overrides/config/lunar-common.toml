@@ -12,7 +12,7 @@
 	bloodMoonWeight = 60
 	#Weight of the Crimson Moon Event [Default: 20]
 	#Range: 0 ~ 100
-	crimsonMoonWeight = 20
+	crimsonMoonWeight = 0
 	#Weight of the Miner Moon Event [Default: 40]
 	#Range: 0 ~ 100
 	minerMoonWeight = 40

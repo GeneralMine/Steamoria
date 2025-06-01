@@ -21,6 +21,71 @@ Primary Mods are MineColonies, Create (with many addons), IronSpells, IceAndFire
 ## Changelog
 
 <details>
+<summary><h2>📦 1.4.0 - 🗓️ 2025-06-01</h2></summary>
+New MineColonies Tropical Style, additions to the shire style. A lot more create content. Two new small ruined structures. New immersion and shader improvements.
+
+### 🛠️ Mods
+
+- ❇️ `Applied Botanics`: 1.5.0
+- ❇️ `AzurelibNeo`: 3.6.0
+- ❇️ `Chisel Forge`: 2.0.0
+- ❇️ `Create: Connected`: 1.1.3
+- ❇️ `Create: Enchantable Machinery`: 3.3.4
+- ❇️ `Create: Escalated`: 1.0.4
+- ❇️ `Create: Mob Spawners`: 2.2.0
+- ❇️ `Create: Railwaysnavigator`: 0.8.6-C6
+- ❇️ `Create: Security`: 0.1.2
+- ❇️ `Create: Sound of Steam`: 1.0.0
+- ❇️ `Cryonicconfig`: 1.0.0
+- ❇️ `CutThrough`: 8.0.2
+- ❇️ `DarkWaters`: 0.0.22
+- ❇️ `Do A Barrel Roll`: 3.5.6
+- ❇️ `Easy Piglins`: 1.0.13
+- ❇️ `EuphoriaPatcher`: 1.6.4-r5.5.1
+- ❇️ `ExtremeSoundMuffler`: 3.49.1
+- ❇️ `FactoryBlocks`: 1.4.0
+- ❇️ `IllagerInvasion`: 8.0.7
+- ❇️ `LavaSwim`: 1.0.0
+- ❇️ `Realm RPG: Creep and Crop`: 1.0.2
+- ❇️ `SmartBrainLib`: 1.15
+- ❇️ `Sophisticated Storage Create Integration`: 0.1.12
+- ❇️ `XyCraft Core`: 0.6.22
+- ❇️ `XyCraft Machines`: 0.6.22
+- ❇️ `XyCraft Override`: 0.6.22
+- ❇️ `XyCraft World`: 0.6.22
+- ❇️ `MedievalWalls`: 1
+- ❇️ `ShireAdditions`: 1.1
+- 🔝 `ComplementaryReimagined`: 5.4 -> 5.5.1
+- 🔝 `ComplementaryUnbound`: 5.4 -> 5.5.1
+- 🔝 `AE2`: 15.4.2 -> 15.4.4
+- 🔝 `Balm`: 7.3.30 -> 7.3.31
+- 🔝 `BuildGuide`: 0.4.4 -> 0.4.5
+- 🔝 `Create: Jetpack`: 4.4.1 -> 4.4.2
+- 🔝 `Create: Stock Bridge`: 0.1.2 -> 0.1.3
+- 🔝 `Disenchanting Table`: 5.0.0 -> 5.0.2
+- 🔝 `Elevatorid`: 1.9 -> 1.9.1
+- 🔝 `FarmersDelight`: 1.2.7 -> 1.2.8
+- 🔝 `Mantle`: 1.11.44 -> 1.11.55
+- 🔝 `MineColonies`: 1.1.901-snapshot -> 1.1.907-snapshot
+- 🔝 `MowziesMobs`: 1.7.2 -> 1.7.3
+- 🔝 `Philips Ruins`: 5.3 -> 5.4
+- 🔝 `SophisticatedBackpacks`: 3.23.18.1247 -> 3.23.19.1251
+- 🔝 `SophisticatedCore`: 1.2.66.997 -> 1.2.69.1005
+- 🔝 `SophisticatedStorage`: 1.3.46.1160 -> 1.3.49.1167
+- 🔝 `StyleColonies`: 1.13 -> 1.14
+- 🔝 `Tinkers Construct`: 3.9.2.37 -> 3.10.0.67
+- ❌ `Create Simple Storage`: Support for a mod not included anymore
+- ❌ `Created Simple Storage`:  Support for a mod not included anymore
+
+
+### 📑 Config
+- `Lunar`: Disable CrimsonMoon
+
+</details>
+
+---
+
+<details>
 <summary><h2>📦 1.3.0 - 🗓️ 2025-05-26</h2></summary>
 Updated all mods including new Versions and features of MineColonies and adds some compatiblity and quality of life mods.
 
@@ -29,7 +94,7 @@ Updated all mods including new Versions and features of MineColonies and adds so
 - ❇️ `AE2 Crafting Tree`: 1.0.5
 - ❇️ `Better Compatibility Checker`: 4.0.8
 - ❇️ `Create: Wizardry`: 0.2.3
-- ❇️ `Create Stock Bridges`: 0.1.2
+- ❇️ `Create: Stock Bridges`: 0.1.2
 - ❇️ `Lunar`: 0.2.1
 - ❇️ `PingHUD`: 3.0
 - ❇️ `Polymorhpic Energestics`: 0.1.1

@@ -1,0 +1,14 @@
+{
+  "icon": "shire.png",
+  "name": "Shire Additions",
+  "authors": [
+    "JohnReiher"
+  ],
+  "desc": "More cozy hobbit places",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": 1,
+  "pack-format": 1
+}

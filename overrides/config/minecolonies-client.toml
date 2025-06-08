@@ -7,7 +7,7 @@
 	neighborbuildingrendering = true
 	#How close a building needs to be to another to be considered a neighbor, in blocks. -1 = intersecting, 0 = touching [Default: 4, min: -2, max: 16]
 	#Range: -2 ~ 16
-	neighborbuildingrange = 8
+	neighborbuildingrange = 10
 	#How close (in blocks) you need to be to see work orders while wearing the Build Goggles. [Default: 50, min: 1, max: 250]
 	#Range: 1 ~ 250
 	buildgogglerange = 50

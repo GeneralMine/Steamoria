@@ -1,0 +1,15 @@
+{
+  "icon": "medievaloakresidences.png",
+  "name": "M.O Residences Addon",
+  "authors": [
+    "Carlansor",
+	"Rewlian"
+  ],
+  "desc": "New alternative residences! Designs for Medieval Oak style pack",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1.2",
+  "pack-format": "1"
+}

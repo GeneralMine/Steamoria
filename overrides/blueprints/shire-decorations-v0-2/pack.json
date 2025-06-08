@@ -1,0 +1,14 @@
+{
+    "icon": "shire-decorations.png",
+    "name": "Shire Decorations",
+    "authors": [
+        "hogbits, kalua_pork"
+    ],
+    "desc": "Street lamps and lamp posts add on for the Shire .",
+    "mods": [
+        "structurize",
+        "minecolonies"
+    ],
+    "version": "1",
+    "pack-format": "1"
+}

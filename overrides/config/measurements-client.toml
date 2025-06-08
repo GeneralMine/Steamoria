@@ -9,7 +9,7 @@
 	textColor = "YELLOW"
 	#Set text size [Default: 0.02]
 	#Range: 0.01 ~ 0.1
-	textSize = 0.02
+	textSize = 0.04
 	#Set line width (thickness). [Default: 2]
 	#Range: 1.0 ~ 16.0
 	lineWidth = 2.0

@@ -1,6 +1,4 @@
 
-#Make sure config changes are duplicated on both Clients and the Server when running a dedicated Server,
-# as the config isnt synced between Clients and Server.
 #Accumulator
 [accumulator]
 	#Accumulator max input in FE/t (Energy transfer).
@@ -242,4 +240,11 @@
 	max_stress = 159708
 	#If audio should be enabled or not.
 	audio_enabled = true
+
+#Make sure config changes are duplicated on both Clients and the Server when running a dedicated Server,
+# as the config isnt synced between Clients and Server.
+#General
+["!general"]
+	#If Message should be enabled or not.
+	message_enabled = true
 

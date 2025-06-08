@@ -21,6 +21,41 @@ Primary Mods are MineColonies, Create (with many addons), IronSpells, IceAndFire
 ## Changelog
 
 <details>
+<summary><h2>📦 1.5.0 - 🗓️ 2025-06-08</h2></summary>
+Update all mods, fix some request system problems in minecolonies and blueprints. Add better chunk mangement for server and add FTB Teams&Chunks for chunk claiming and protection
+
+### 🛠️ Mods
+
+- ❇️ `BaguetteLib`: 1.0.0
+- ❇️ `Better Chunk Loading`: 5.4
+- ❇️ `Limited Chunkloading`: 4.1
+- ❇️ `FTB Chunks`: 2001.3.6
+- ❇️ `FTB Teams`: 2001.3.1
+- ❇️ `FTB Library`: 2001.2.9
+- 🔝 `Byzantine`: 32.1 -> 33
+- 🔝 `Corpse`: 1.0.20 -> 1.0.21
+- 🔝 `CorpseCuriosCompat`: 2.2.2 -> 3.0.2
+- 🔝 `Create: Better Motors`: 3.0.1 -> 3.0.2
+- 🔝 `Create`: 6.0.4 -> 6.0.5
+- 🔝 `Create Railways Navigator`: 0.8.0 -> 0.8.3
+- 🔝 `Delightful`: 3.7.1 -> 3.7.2
+- 🔝 `Dummmmmmmmy`: 2.0.6 -> 2.0.7
+- 🔝 `geckolib`: 4.7.1.2 -> 4.7.1.3
+- 🔝 `Lunar`: 0.2.1 -> 0.2.2
+- 🔝 `MineColonies`: 1.1.907 -> 1.1.909
+- 🔝 `Modernfix`: 5.23.0 -> 5.23.1
+- 🔝 `Moonlight`: 2.14.1 -> 2.14.4
+- 🔝 `Refurbished Furniture`: 1.0.12 -> 1.0.14
+- 🔝 `Structurize`: 1.0.772 -> 1.0.773
+- 🔝 `Supplementaries`: 3.1.30 -> 3.1.31
+- 🔝 `TwilightDelight`: 2.0.14 -> 2.0.15
+- ❌ `Better Toms Create Storage`: Not needed
+
+</details>
+
+---
+
+<details>
 <summary><h2>📦 1.4.0 - 🗓️ 2025-06-01</h2></summary>
 New MineColonies Tropical Style, additions to the shire style. A lot more create content. Two new small ruined structures. New immersion and shader improvements.
 
@@ -305,3 +340,28 @@ First Release on CurseForge! Changelog relative to previous modpack.
 - `+`: View Chunk Loaders
 
 </details>
+
+## Make a release
+### Client Release
+1. Make changes to profile
+2. Test changes ingame
+3. Increase bcc-common.toml modpack version
+4. Commit changes to local repo which contains every single change of config/mods/etc.
+5. Write Changelog
+6. Export profile as zip containing:
+   1. /blueprints (without playernames folder)
+   2. /config (without worldedit)
+   3. /datapacks
+   4. /mods
+   5. /resoucepacks
+   6. /shaderpacks
+7. Extract and move content to Steamoria public repo
+8. Check changes and add author to manifest.json
+9. Make zip of repo without .git
+10. Push to repo and upload release zip to github and CurseForge with Changelog
+
+### Server Release
+1. Move /config and /mods to server repo and override folders
+2. Check changes and remove all mods/configs which are client side only
+3. Push to repo
+4. Restart server

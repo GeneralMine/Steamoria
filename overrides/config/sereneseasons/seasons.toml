@@ -1,7 +1,7 @@
 
 [weather_settings]
 	#Generate snow and ice during the Winter season
-	generate_snow_ice = true
+	generate_snow_ice = false
 	#Change the frequency of rain/snow/storms based on the season
 	change_weather_frequency = true
 

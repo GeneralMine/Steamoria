@@ -1,0 +1,14 @@
+{
+  "icon": "decopack.jpg",
+  "name": "Deco Pack",
+  "authors": [
+    "DevilKitten"
+  ],
+  "desc": "Just little things to make your town really feel like home!",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": 26,
+  "pack-format": 1
+}

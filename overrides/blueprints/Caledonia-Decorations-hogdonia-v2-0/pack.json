@@ -1,0 +1,12 @@
+{
+    "version":1,
+    "pack-format":1,
+    "desc":"Additional decorations for the Caledonia style pack.",
+    "authors":["hogbits"],
+    "mods": [
+        "structurize",
+        "minecolonies"
+    ],
+    "name":"Hogdonia",
+    "icon":"hogdonia.png"
+}

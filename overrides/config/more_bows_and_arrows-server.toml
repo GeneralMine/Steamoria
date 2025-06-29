@@ -1,0 +1,7 @@
+# banned_bows is a list of bows that will do nothing if a player attempts to use them
+# banned_bows = ["amethyst_bow", "obsidian_bow"]
+banned_bows = []
+
+# banned_arrows is a list of arrows that will do nothing if a player attempts to use them
+# banned_arrows = ["amethyst_arrow", "tnt_arrow"]
+banned_arrows = []

@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "pack-format": 1,
+    "desc": "Become a crusader lord and site your castle in the desert, preparing to fend off the unholy arabs, or, become an arab king yourself and stop the expansionist knights! This style is centered at practicality, without complete disregard for beauty in the buildings.",
+    "authors": ["Igggosha"],
+    "mods": ["structurize", "minecolonies"],
+    "name": "Crusaders Bane",
+    "icon": "crusader.png"
+}

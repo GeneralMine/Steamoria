@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://marvin.raiser.dev/Steamoria"><img src="overrides/config/fancymenu/assets/1x/bg.png" /></a>
+    <a href="https://s2quat.raiser.dev"><img src="config/fancymenu/assets/1x/bg.png" /></a>
     <h1>Steamoria</h1>
     <p>Invent, Rule and Protect your colony in a magical fantasy setting with Create, MineColonies and several immersion and adventure mods!</p>
     <a href="https://www.curseforge.com/minecraft/modpacks/steamoria"><img src="https://cf.way2muchnoise.eu/versions/Minecraft%20Version_1254809_all.svg" /></a>
@@ -20,8 +20,30 @@ Primary Mods are MineColonies, Create (with many addons), IronSpells, IceAndFire
 
 ## Changelog
 <details>
+<summary><h2>📦 1.7.0 - 🗓️ 2025-11-13</h2></summary>
+Update all mods, remove some unnecessary mods and add new content.
+
+### 🛠️ Mods
+
+- ❇️ `Valarian Conquest`
+- ❇️ `Alshanex's Familiars`
+- ❇️ `Creature Compendium: Beasts, Golems & Curses`
+- ❇️ `L_Ender 's Cataclysm`
+- ❇️ `T.O Magic 'n Extras - Iron's Spells Addon`
+- ❇️ `Armor Statues`
+- ❇️ `Armor of the Ages`
+- 🔝 Updated WorldGen Mods. Please report issues with world generation ASAP!
+- 🔝 All create mods have been updated to the current latest working version with create 6.0.6
+- ❌ `ChunkLoader`
+- ❌ `Realm RPG: Creep & Crop`
+
+</details>
+
+---
+
+
 <summary><h2>📦 1.6.0 - 🗓️ 2025-06-29</h2></summary>
-Update all mods, add new style packs for colonies, integrate claimed chunks with JourneyMap, add proximity voice chat and adjust some configs
+Update all mods, integrate claimed chunks with JourneyMap, add proximity voice chat and adjust some configs
 
 ### 📑 Config
 - `ImmersiveWeathering`: Disabled lightning strikes causing magma blocks to spawn

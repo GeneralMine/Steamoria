@@ -246,5 +246,5 @@
 #General
 ["!general"]
 	#If Message should be enabled or not.
-	message_enabled = true
+	message_enabled = false
 

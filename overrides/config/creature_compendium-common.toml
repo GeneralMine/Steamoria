@@ -1,0 +1,14 @@
+#Whether the Netherite Forge Overlay should display while riding it
+overlay_forge = true
+#Whether collateral damage caused by tamed Netherite Forges damages owners
+fire_friendly = true
+#Whether collateral damage caused by tamed Netherite Forges damages owners
+#Range: 0 ~ 5
+netherite_forge_weight = 1
+#Whether collateral damage caused by tamed Netherite Forges damages owners
+#Range: 0 ~ 100
+moleman_weight = 1
+#Whether collateral damage caused by tamed Netherite Forges damages owners
+#Range: 0 ~ 100
+unseen_grasp_weight = 1
+

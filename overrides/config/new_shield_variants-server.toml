@@ -1,0 +1,3 @@
+# banned_shields is a list of shields that will do nothing if a player attempts to use them
+# banned_shields = ["stone_shield", "iron_shield"]
+banned_shields = []

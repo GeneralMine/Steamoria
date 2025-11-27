@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "GeneralMine",
+      "uniqueId": "a7abea73-2a8d-40cc-aa7a-6a19783ef6c6"
+    },
+    "time": 1764094792833,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/XA9dmCUvGl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GeneralMine",
+      "uniqueId": "a7abea73-2a8d-40cc-aa7a-6a19783ef6c6"
+    },
+    "time": 1764094759044,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/fl0Bt8pQRX"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GeneralMine",
+      "uniqueId": "a7abea73-2a8d-40cc-aa7a-6a19783ef6c6"
+    },
+    "time": 1764094739390,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kpXiTvCAEu"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GeneralMine",
+      "uniqueId": "a7abea73-2a8d-40cc-aa7a-6a19783ef6c6"
+    },
+    "time": 1764094074128,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FPS5NdAtFu"
+    }
+  }
+]

@@ -20,7 +20,29 @@ Primary Mods are MineColonies, Create (with many addons), IronSpells, IceAndFire
 
 ## Changelog
 <details>
-<summary><h2>📦 1.7.0 - 🗓️ 2025-11-13</h2></summary>
+<summary><h2>📦 1.8.0 - 🗓️ 2025-11-27</h2></summary>
+Update all mods, remove some performance heavy mods and add new cannons.
+
+### 🛠️ Mods
+
+- ❇️ `Create Big Cannons`
+- ❇️ `Create Big Cannons: Advanced Technologies`
+- ❇️ `Default Skill Trees`
+- ❇️ `Pufferfish's Skills`
+- ❇️ `Pufferfish's Attributes`
+- ❇️ `Pufferfish's Unofficial Additions`
+- ❇️ `Iron Spells Spellbooks Dynamic Skill Tree`
+- 🔝 Updated WorldGen Mods. Please report issues with world generation ASAP!
+- 🔝 All mods updates which arent breaking have been applied.
+- ❌ `Nyf Spiders`
+- ❌ `Create Power Loader`
+
+</details>
+
+---
+
+
+<summary><h2>📦 1.7.0 - 🗓️ 2025-11-24</h2></summary>
 Update all mods, remove some unnecessary mods and add new content.
 
 ### 🛠️ Mods
@@ -36,6 +58,7 @@ Update all mods, remove some unnecessary mods and add new content.
 - 🔝 All create mods have been updated to the current latest working version with create 6.0.6
 - ❌ `ChunkLoader`
 - ❌ `Realm RPG: Creep & Crop`
+- ❌ `Noisium`
 
 </details>
 
